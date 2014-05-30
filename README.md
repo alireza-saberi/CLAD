@@ -1,7 +1,7 @@
 CLAD
 ====
 
-<p>This is a repo for exercises related to CLAD exam. CLAD stands for Certified LabVIEW Associate Developer, and it's offered by National Instrument for new user level at LabVIEW.  It requires two course manuals; Core 1 and Core 2 and exercises for these two cores </p>
+<p>This is a repo for exercises related to CLAD exam. The CLAD stands for Certified LabVIEW Associate Developer, and it's offered by National Instrument at new user level.  It requires two course manuals; Core 1 and Core 2 and exercises of these two cores </p>
 
 <p>Additional Resources are :
   <ul>
@@ -12,7 +12,7 @@ CLAD
 </p>
 
 
-<p>The order for core 1 exercise is the following:
+<p>The order for core 1 exercises is the following:
   <ul>
   <li>Flight delay</li>
   <li>Using Temperature</li>
