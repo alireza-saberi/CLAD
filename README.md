@@ -18,5 +18,8 @@ CLAD
   <li>Using Temperature</li>
   <li>Simple AAP VI</li>
   <li>Debugging </li>
+  <li>Temperature Warning</li>
+  <li>Auto Match VI</li>
+  <li>Temperature Monitor</li>
   </ul>
 </p>
