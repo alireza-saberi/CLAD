@@ -14,7 +14,7 @@ CLAD
 
 <p>The order for core 1 exercises is the following:
   <ul>
-  <li>Flight delay</li>
+  <li> Exploring a VI; Flight delay</li>
   <li>Using Temperature</li>
   <li>Simple AAP VI</li>
   <li>Debugging </li>
